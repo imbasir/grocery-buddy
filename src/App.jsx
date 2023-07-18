@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <GroceryComponent />
       <div>Hello</div>
+      <div>Send from branch</div>
     </div>
   );
 }
